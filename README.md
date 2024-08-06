@@ -1,2 +1,2 @@
 # Index
-  1. My College MIC Portal
+  1. MIC Portal
